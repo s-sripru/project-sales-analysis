@@ -1,0 +1,101 @@
+customer_id,segment,signup_date,email_opt_in
+CUST-101,Corporate,2022-09-30,No
+CUST-102,Consumer,2022-10-14,Yes
+CUST-103,Home Office,2023-01-01,n/a
+CUST-104,Consumer,2022-01-26,Yes
+CUST-105,Corporate,2023-05-09,
+CUST-106,Home Office,2022-10-30,n/a
+CUST-107,Corporate,2022-01-27,No
+CUST-108,Consumer,2023-04-28,No
+CUST-109,Corporate,2022-08-18,
+CUST-110,Corporate,2022-09-29,No
+CUST-111,Consumer,2022-03-06,
+CUST-112,Consumer,2022-07-20,
+CUST-113,Corporate,2022-08-13,Yes
+CUST-114,Corporate,2022-05-09,
+CUST-115,Consumer,2023-01-21,n/a
+CUST-116,Corporate,2022-06-12,n/a
+CUST-117,Home Office,2022-06-14,Yes
+CUST-118,Consumer,2023-03-19,No
+CUST-119,Consumer,2023-01-13,
+CUST-120,Consumer,2022-04-25,Yes
+CUST-121,Consumer,2022-06-17,n/a
+CUST-122,Consumer,2022-01-26,Yes
+CUST-123,Consumer,2022-10-21,n/a
+CUST-124,Home Office,2023-02-10,n/a
+CUST-125,Corporate,2022-05-09,No
+CUST-126,Home Office,2022-12-14,Yes
+CUST-127,Home Office,2022-04-21,No
+CUST-128,Home Office,2022-09-20,n/a
+CUST-129,Consumer,2023-02-03,
+CUST-130,Home Office,2022-09-15,Yes
+CUST-131,Consumer,2023-04-10,Yes
+CUST-132,Corporate,2022-05-07,n/a
+CUST-133,Consumer,2022-05-10,
+CUST-134,Consumer,2022-08-10,Yes
+CUST-135,Corporate,2023-03-30,No
+CUST-136,Consumer,2022-05-17,
+CUST-137,Corporate,2023-01-14,Yes
+CUST-138,Home Office,2022-12-28,n/a
+CUST-139,Home Office,2022-12-21,n/a
+CUST-140,Home Office,2023-02-27,
+CUST-141,Corporate,2022-08-01,Yes
+CUST-142,Home Office,2022-11-24,n/a
+CUST-143,Corporate,2023-02-19,
+CUST-144,Home Office,2022-06-14,Yes
+CUST-145,Home Office,2022-12-16,No
+CUST-146,Corporate,2022-06-18,
+CUST-147,Home Office,2022-12-08,No
+CUST-148,Home Office,2022-10-24,No
+CUST-149,Home Office,2022-09-18,No
+CUST-150,Home Office,2023-04-05,n/a
+CUST-151,Consumer,2022-10-02,Yes
+CUST-152,Consumer,2022-08-31,No
+CUST-153,Corporate,2022-09-18,Yes
+CUST-154,Home Office,2022-03-21,Yes
+CUST-155,Home Office,2022-05-02,n/a
+CUST-156,Corporate,2022-12-10,No
+CUST-157,Corporate,2022-01-04,
+CUST-158,Corporate,2022-03-06,n/a
+CUST-159,Home Office,2022-11-15,n/a
+CUST-160,Home Office,2022-02-06,Yes
+CUST-161,Consumer,2022-06-05,
+CUST-162,Corporate,2022-01-03,Yes
+CUST-163,Home Office,2022-12-11,
+CUST-164,Home Office,2022-09-29,n/a
+CUST-165,Home Office,2023-05-01,Yes
+CUST-166,Corporate,2022-06-29,No
+CUST-167,Corporate,2023-03-08,
+CUST-168,Consumer,2022-04-01,
+CUST-169,Home Office,2022-09-21,
+CUST-170,Corporate,2022-08-30,n/a
+CUST-171,Corporate,2022-03-19,
+CUST-172,Corporate,2022-01-15,n/a
+CUST-173,Home Office,2022-08-20,No
+CUST-174,Consumer,2022-09-22,No
+CUST-175,Corporate,2023-03-17,No
+CUST-176,Corporate,2022-06-15,No
+CUST-177,Corporate,2022-05-08,
+CUST-178,Home Office,2023-05-14,Yes
+CUST-179,Home Office,2022-06-05,No
+CUST-180,Consumer,2023-01-22,Yes
+CUST-181,Consumer,2023-04-16,
+CUST-182,Corporate,2022-04-15,No
+CUST-183,Home Office,2023-03-24,
+CUST-184,Consumer,2022-11-28,No
+CUST-185,Corporate,2023-01-26,
+CUST-186,Consumer,2023-02-12,No
+CUST-187,Corporate,2023-03-24,No
+CUST-188,Home Office,2023-01-21,n/a
+CUST-189,Consumer,2022-01-18,n/a
+CUST-190,Corporate,2023-01-24,
+CUST-191,Corporate,2022-11-29,n/a
+CUST-192,Corporate,2023-01-13,No
+CUST-193,Corporate,2022-02-22,No
+CUST-194,Home Office,2022-12-12,Yes
+CUST-195,Consumer,2022-01-08,No
+CUST-196,Corporate,2022-05-01,Yes
+CUST-197,Consumer,2022-02-14,Yes
+CUST-198,Corporate,2023-04-26,
+CUST-199,Home Office,2022-04-20,n/a
+CUST-200,Corporate,2022-12-24,
